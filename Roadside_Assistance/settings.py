@@ -138,8 +138,8 @@ STATICFILES_DIRS = [
 #     'default': {
 #        'ENGINE': 'django.db.backends.mysql',
 #         'NAME': 'Roadside_Assistance',
-#         'USER': 'Tanisha',
-#         'PASSWORD': 'MYSQLtanisha',
+#         'USER': 'Ashish',
+#         'PASSWORD': 'MYSQL1234',
 #         'HOST':'localhost',
 #         'PORT':'3306',
 #     }
