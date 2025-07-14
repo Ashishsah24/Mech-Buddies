@@ -85,7 +85,7 @@ DATABASES = {
 #        'ENGINE': 'django.db.backends.mysql',
 #         'NAME': 'Roadside_Assistance',
 #         'USER': 'root',
-#         'PASSWORD': 'MYSQLtanisha',
+#         'PASSWORD': 'MYSQL1234',
 #         'HOST':'localhost',
 #         'PORT':'3306',
 #     }
